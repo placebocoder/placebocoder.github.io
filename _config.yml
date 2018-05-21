@@ -28,7 +28,7 @@ google-analytics:
 
 # Disqus
 disqus:
-  id:               "placebocoder"
+  id:               "placebocoder-github-io"
 
 # URL
 url:                "https://placebocoder.github.io" # the base hostname & protocol for your site
