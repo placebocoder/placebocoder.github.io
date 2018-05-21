@@ -1,6 +1,2 @@
-# Placebo
 
-# Coder
-
-# Placebo Coder
-
+placebo code
