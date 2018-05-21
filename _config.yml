@@ -1,9 +1,5 @@
-# # # # # # # # # # # # #
-#   K i k o - p l u s   #
-# # # # # # # # # # # # #
-
 # Basic
-name:               "Kiko Plus"
+name:               "Placebo Coder"
 
 author:
   facebook:         your-id
@@ -23,8 +19,8 @@ author:
   email:            placebo.coder@gmail.com
 
 copyright:
-  year:             2017
-  name:             Kiko
+  year:             2018
+  name:             placebocoder
 
 # Google-analytics
 google-analytics:
@@ -32,10 +28,10 @@ google-analytics:
 
 # Disqus
 disqus:
-  id:               "kiko-plus"
+  id:               "placebocoder"
 
 # URL
-url:                "https://AWEEKJ.github.io" # the base hostname & protocol for your site
+url:                "https://placebocoder.github.io" # the base hostname & protocol for your site
 # url:                "http://localhost:4000" # use this url when you develop
 baseurl:            "/" # the subpath of your site, e.g. /blog
 
@@ -62,7 +58,7 @@ nav:
   - name:           "Tags"
     url:            "/tags"
   - name:           "Github"
-    url:            "https://github.com/AWEEKJ/Kiko-plus"
+    url:            "https://github.com/placebocoder"
 
 # Sass
 sass:
