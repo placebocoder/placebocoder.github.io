@@ -1,5 +1,5 @@
 # Basic
-name:               "Placebo Coder"
+name:               "PL;CO"
 
 author:
   facebook:         your-id
@@ -24,7 +24,7 @@ copyright:
 
 # Google-analytics
 google-analytics:
-  id:               ""
+  id:               "UA-119762085-1"
 
 # Disqus
 disqus:
