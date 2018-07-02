@@ -13,6 +13,6 @@ I like to talk about `computer`, `software` and `code`, and I've been learning a
 This blog where I fill with my `experiences` and `stories` those I've tried, and I hope that they I filled will be another experience and story of someone else.
 
 `→` 기호는 해외 포스팅을 번역하였거나 좋은 자료, 글 링크를 공유하고자 할 때 사용합니다.  
-I use `→` symbol at a title to share good words, articles, posts of someone else  or  to translate overseas posts.
+I use `→` symbol at a title sharing good words, articles, posts of someone else  or  translating overseas posts.
 <br><br><br>
 PL;CO
