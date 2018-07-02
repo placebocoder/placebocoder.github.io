@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "-> A Twit of Brian Goets"
+title: "→ A Twit of Brian Goets"
 description: "What did you do this week? What did you do last year?"
 date: 2018-07-03
 tags: [잡담, gossip]
