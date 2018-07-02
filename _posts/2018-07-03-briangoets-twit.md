@@ -18,6 +18,5 @@ share: true
 이번 주의 나 자신을 준비시켰습니다!
 
 [트윗 원본 링크](https://twitter.com/BrianGoetz/status/1004774585122873344){: target="_blank" }
-
 <br><br><br>
 PL;CO
