@@ -11,7 +11,7 @@ share: true
 
 ![brian-goets-twit]({{ site.url }}/post-images/2018-07-03-briangoets-twit.png)
 
-이번 주에 당신은 무엇을 했나요?  
+이번 주의 당신은 무엇을 했나요?  
 10배의 성능 개선점을 발견했습니다!
 
 지난 해의 당신은 무엇을 했나요?  
